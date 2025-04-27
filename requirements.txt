@@ -5,7 +5,7 @@ langchain
 langchain_community
 TextLoader
 pymupdf
-UnstructuredWordDocumentLoader
+unstructured
 langchain-groq
 faiss-cpu
 sentence-transformers
