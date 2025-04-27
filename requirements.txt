@@ -1,6 +1,10 @@
 streamlit
+chromadb
 langchain
+langchain-community
 langchain-groq
-faiss-cpu
 sentence-transformers
-PyPDF2
+PyMuPDF
+unstructured
+python-docx
+dotenv
