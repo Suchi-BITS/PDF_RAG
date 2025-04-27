@@ -1,6 +1,11 @@
 dotenv
 streamlit
+chromadb
 langchain
+langchain_community
+TextLoader
+PyMuPDFLoader
+UnstructuredWordDocumentLoader
 langchain-groq
 faiss-cpu
 sentence-transformers
